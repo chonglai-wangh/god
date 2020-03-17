@@ -1,0 +1,6 @@
+*{ margin : 0; padding : 0;}
+html,body{overflow-x: hidden; padding-top: 25px;padding-bottom: 25px;/* height:100%; */background-color: antiquewhite;font-size: 14px;}
+ul,li{ list-style: none;}
+img{ display: block;}
+a{text-decoration: none;}
+.clearfix::before,.clearfix::after {content: "";display: block;height: 0;line-height: 0px;clear: both;visibility: hidden;}
